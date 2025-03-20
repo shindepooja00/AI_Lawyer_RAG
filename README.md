@@ -1,6 +1,3 @@
-### ✅ **📄 README.md for AI Lawyer RAG with DeepSeek**
-
----
 
 # 🛡️ **AI Lawyer RAG with DeepSeek**
 An AI-powered legal assistant using **Retrieval-Augmented Generation (RAG)** and **DeepSeek models** to answer legal queries based on uploaded PDF documents.
